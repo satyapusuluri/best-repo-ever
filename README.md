@@ -1,1 +1,2 @@
 # best-repo-ever
+When you work locally, Git keeps track of your history by organizing your files and changes in three trees. They are working, staging (also called index), and history. When we add, delete, and make changes to files, we do this in the working tree.
